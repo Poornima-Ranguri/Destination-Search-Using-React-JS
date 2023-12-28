@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.search-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f9;
+  border-radius: 5px;
+  padding: 5px;
+  color: #252627;
+}
+
+.search {
+  background-color: #f1f5f9;
+  cursor: pointer;
+  color: #252627;
+}
+
+.image-1 {
+  height: 25px;
+  width: 25px;
+}
+
+.image {
+  height: 25vh;
+  width: 25vw;
+  background-size: cover;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 0;
+}

@@ -1,0 +1,13 @@
+.item-container {
+  text-align: center;
+}
+
+.image {
+  height: 25vh;
+  background-size: cover;
+}
+
+.parag {
+  color: #000000;
+  font-family: 'Roboto';
+}
